@@ -1,2 +1,2 @@
-# work-log-journal
-This repository demonstrates my learning, progress and research
+# List it up!
+This application can record pending and completed tasks.
