@@ -18,3 +18,9 @@ reason: wanted a visual representation of how Tkinter works
 Video: Do's and Dont's of UI design 
 Source: https://youtube.com/shorts/CoXjz3l4csY?feature=share
 Reason: I wanted to learn about UI design in a visual manner
+
+**2023/06/05**
+
+Article: How to read a file in Python 
+source: https://www.geeksforgeeks.org/how-to-read-from-a-file-in-python/
+reason: I wanted to see how to read a file in python 
