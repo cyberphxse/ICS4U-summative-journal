@@ -24,3 +24,30 @@ Reason: I wanted to learn about UI design in a visual manner
 Article: How to read a file in Python 
 source: https://www.geeksforgeeks.org/how-to-read-from-a-file-in-python/
 reason: I wanted to see how to read a file in python 
+
+**2023/06/12**
+
+Article: Create a date picker Calendar
+source: https://www.geeksforgeeks.org/create-a-date-picker-calendar-tkinter/
+reason: I wanted to know how to make a calendar that picks a date 
+
+Article: Drop-down List (Combobox) in Tk (tkinter)
+source: https://pythonassets.com/posts/drop-down-list-combobox-in-tk-tkinter/
+reason: wanted to know how to implement a drop-down list with tkinter 
+
+Article: How to install PIP on Windows 
+source: https://www.geeksforgeeks.org/how-to-install-pip-on-windows/
+reason: wanted to know how to install PIP on windows 
+
+Article: List of fonts for tkinter 
+source: https://www.reddit.com/r/Python/comments/z8cvus/list_of_fonts_for_tkinter/
+reason: wanted to know which fonts were available for use on tkinter
+
+Article: Tkinter PhotoImage
+source: https://www.pythontutorial.net/tkinter/tkinter-photoimage/
+reason: wanted to know how to use photoimage in tkinter
+
+Article: How to Display Data in a Table using Tkinter
+Source: https://www.activestate.com/resources/quick-reads/how-to-display-data-in-a-table-using-tkinter/
+reason: wanted to know how to display data in a table with tkinter 
+
